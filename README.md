@@ -1,2 +1,2 @@
 # Spring
-In is
+This is my Spring code base.
